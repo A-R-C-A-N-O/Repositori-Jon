@@ -1,0 +1,91 @@
+commit aede885fe3e3571e5189011d4f7c406087ebec02
+Author: A-R-C-A-N-O <c.eicv2003@gmail.com>
+Date:   Thu Jan 2 19:13:31 2025 -0600
+
+     Agregando dos Parrafos
+
+commit e2e1ab94a3118c8823bf91a87f5cf47dc085aca4
+Author: A-R-C-A-N-O <c.eicv2003@gmail.com>
+Date:   Thu Jan 2 19:12:50 2025 -0600
+
+     Agregando Parrafo
+
+commit d05c52efc421da56e006863c651820593a56e9cf
+Merge: ef8868c 1153dc1
+Author: A-R-C-A-N-O <c.eicv2003@gmail.com>
+Date:   Thu Jan 2 19:09:53 2025 -0600
+
+    Resolviendo conflicto en  estaciones del año con fecha de inicio
+
+commit ef8868cc4ce641cf24b174a337bb9035dc1de599
+Author: A-R-C-A-N-O <c.eicv2003@gmail.com>
+Date:   Thu Jan 2 17:54:59 2025 -0600
+
+    Agregando estaciones al inicio
+
+commit 1153dc1f2960e0e301b098e8b31a913190cee48d
+Author: A-R-C-A-N-O <c.eicv2003@gmail.com>
+Date:   Thu Jan 2 17:54:59 2025 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 0872f190ba354e453975cdf1846cf2af8e853c9c
+Author: A-R-C-A-N-O <c.eicv2003@gmail.com>
+Date:   Mon Dec 30 20:36:33 2024 -0600
+
+    Soy un commit
+
+commit 42106010aba40aa79e3096757328e8b200b4c8f0
+Merge: 3449690 24b431c
+Author: A-R-C-A-N-O <c.eicv2003@gmail.com>
+Date:   Mon Dec 30 19:57:37 2024 -0600
+
+    Merge branch 'js'
+
+commit 24b431c03331096c075ab89dd339fec6451069bd
+Author: A-R-C-A-N-O <c.eicv2003@gmail.com>
+Date:   Mon Dec 30 19:38:56 2024 -0600
+
+    Agregar JS
+
+commit 344969075682b302078d3f1c9dd2f6c95f98b920
+Author: A-R-C-A-N-O <c.eicv2003@gmail.com>
+Date:   Mon Dec 30 19:22:07 2024 -0600
+
+    Estilos
+
+commit fb7761e43eb7ec77ac2e3c7a3901251331585a57
+Author: A-R-C-A-N-O <c.eicv2003@gmail.com>
+Date:   Mon Dec 30 19:17:11 2024 -0600
+
+    Creando archivo index.html
+
+commit eb47a6fc1bbe1f09205a8ad71b721c94568d80ec
+Author: A-R-C-A-N-O <c.eicv2003@gmail.com>
+Date:   Mon Dec 30 17:14:56 2024 -0600
+
+    Informacion del curso en el README.md
+
+commit ffd6ffd9c666d80b233e67944c32e3c91c35efb7
+Author: A-R-C-A-N-O <c.eicv2003@gmail.com>
+Date:   Mon Dec 30 17:07:27 2024 -0600
+
+    Ignorando archivos
+
+commit 55a0d9d50a9fd30b8952fe0fe562364fcc199b8c
+Author: A-R-C-A-N-O <131091229+A-R-C-A-N-O@users.noreply.github.com>
+Date:   Sat Dec 28 19:06:58 2024 -0600
+
+    Create LICENSE
+
+commit 5cc1591d8bfccc3b7db9682b9b77a81d0e115eec
+Author: A-R-C-A-N-O <c.eicv2003@gmail.com>
+Date:   Sat Dec 28 18:59:57 2024 -0600
+
+    Segundo commit readme
+
+commit e07518894112ab44354d9015dcd329a099a7ab4c
+Author: A-R-C-A-N-O <c.eicv2003@gmail.com>
+Date:   Sat Dec 28 18:42:26 2024 -0600
+
+    first commit
